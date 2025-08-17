@@ -1,0 +1,11 @@
+{
+    "base_dir": "/home/<user>/<example>",
+    "interval": 5,
+    "remotes": [
+        {
+            "name": "<name>",
+            "dir": "<directory>"
+        }
+
+    ]
+}
